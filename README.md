@@ -1,5 +1,5 @@
 # clip-konw
-[baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+[clip](https://github.com/openai/CLIP/blob/main/CLIP.png?raw=true "clip")
 
 ## 安装
 ```phthon
