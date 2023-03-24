@@ -1,5 +1,6 @@
 # clip-konw
 [clip](https://github.com/openai/CLIP/blob/main/CLIP.png?raw=true "clip")
+CLIP（对比性语言-图像预训练）是一个在各种（图像，文本）对上训练的神经网络。它可以在自然语言中被指示预测最相关的文本片段，给定一个图像，而不直接对任务进行优化，类似于GPT-2和3的零拍摄能力。我们发现CLIP与原始ResNet50在ImageNet上的 "0-shot "性能相匹配，而不使用任何原始的1.28M标记的例子，克服了计算机视觉中的几个主要挑战。
 
 ## 安装
 ```phthon
