@@ -64,4 +64,10 @@ print("\nTop predictions:\n")
 for value, index in zip(values, indices):
     print(f"{list[index]:>16s}: {100 * value.item():.2f}%")
 ```
+```python
+Top predictions:
 
+           China: 72.51%
+        envelope: 14.06%
+             red: 13.42%
+```
